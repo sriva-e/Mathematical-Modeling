@@ -1,4 +1,4 @@
-# Mathematical-Modeling
+# Lotka-Volterra Competition Modeling
 Modeling the changing landscape of IT Work culture
 Introduction :
 Before the pandemic, there was only a small group of workers who worked remotely full time, and a much larger class of workers who telecommuted occasionally or simply sometimes took work home. With the outbreak of COVID, quarantine and lockdown has permanently affected work environments. As we look towards a post-covid future, it is desirable to understand and predict how remote and in-person work will evolve over time. As the pandemic has shown, many IT jobs can be performed remotely. However, some jobs will always require in person roles (ex. service industry or classified systems). In the future, is it possible that all employees will be able to work remotely? In this report, competition model will be used to simulate the change of in-person and remote work overtime, perform analysis to find potential equilibria and predict the future of remote work in the IT industry.
